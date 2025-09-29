@@ -28,18 +28,18 @@ The goal of this repository is to highlight key Tableau competencies, including:
 
 ---
 
-### 2. Global Superstore  
-**Dataset:** A sample dataset widely used in Tableau training. It contains global sales, profit, shipping, and customer data.  
+### 2. Global Health Statistics  
+**Dataset:** Internationally reported health statistics covering population health, diseases, and healthcare indicators.  
 
 **Focus:**  
-- Analyzing profitability by region, category, and customer segment.  
-- Identifying trends in sales and shipping performance.  
-- Building dashboards for executives to track key business metrics.  
+- Analyzing global trends in health outcomes across countries and regions.  
+- Identifying correlations between health indicators and demographic or economic factors.  
+- Building dashboards to compare healthcare performance worldwide.  
 
 **Skills demonstrated:**  
 - Dashboard design with interactive filters and parameters.  
-- Hierarchical drilldowns (e.g., Category → Sub-Category → Product).  
-- Applying trend lines, forecasting, and performance analysis.  
+- Hierarchical drilldowns (e.g., Region → Country → Health Indicator).  
+- Applying trend lines, forecasting, and comparative analysis.  
 
 ---
 
@@ -60,4 +60,4 @@ The goal of this repository is to highlight key Tableau competencies, including:
 
 ## 📌 Notes  
 - The **UK Employment dataset** is derived from publicly available government statistics.  
-- The **Global Superstore dataset** is a commonly used sample dataset provided for learning purposes.  
+- The **Global Health Statistics dataset** is sourced from publicly available international health data used for learning purposes.  
